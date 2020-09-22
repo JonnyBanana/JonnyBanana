@@ -21,7 +21,14 @@ https://github.com/JonnyBanana/github-readme-stats
 
 </BR>
 
-![Alt text](https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif)
+<div align="center" width="50">
+
+<img src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="300"/>
+
+</div>
+
+
+![Alt text]()
 
 </BR>
 
