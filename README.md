@@ -21,10 +21,6 @@ Here are some ideas to get you started:
  
  <h1 align="center"> Welcome to Banana's Home </h1>
 
-
-
-</BR>
-
 <!-- Github -Twitter and Sponsor Logo -->
 <p align="center">
 	<a href="https://github.com/JonnyBanana"><img src="https://img.shields.io/github/followers/JonnyBanana.svg?label=GitHub&style=social" alt="GitHub"></a>
