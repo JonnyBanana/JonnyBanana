@@ -21,6 +21,24 @@ Here are some ideas to get you started:
  
  <h1 align="center"> Welcome to Banana's Home </h1>
  
+ </BR>
+ 
+<div align="center">
+<a href="https://github.com/https://github.com/JonnyBanana" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/jonnybanana84" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
+
+ 
+ </BR>
+ 
  
  <p align="center">
 <a href="https://JonnyBanana.github.io"><img src="https://camo.githubusercontent.com/38bf262e2c177202fedef68851784c63dad5bb64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6172736869616d69646f73"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Darshiamidos&longCache=true">
@@ -109,18 +127,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>  
-
-<div align="center">
-<a href="https://github.com/https://github.com/JonnyBanana" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://twitter.com/jonnybanana84" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
+ 
   
 
 <div align="center">
