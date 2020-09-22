@@ -21,8 +21,11 @@ Here are some ideas to get you started:
  
  <h1 align="center"> Welcome to Banana's Home </h1>
  
-
  
+ 
+ 
+
+  <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;
  
  
 <!-- Biohacking Gif -->
