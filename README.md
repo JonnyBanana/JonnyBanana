@@ -28,8 +28,6 @@ https://github.com/JonnyBanana/github-readme-stats
 </div>
 
 
-![Alt text]()
-
 </BR>
 
 <div>
