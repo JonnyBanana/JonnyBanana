@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <!-- Party Emoji's -->
 
 </BR></BR>
+</BR></BR>
 
  <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/>&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50" height="50"/> 
 
@@ -68,7 +69,6 @@ Here are some ideas to get you started:
 <!-- thropy -->
 <a href="https://JonnyBanana.github.io">
  
-</BR></BR>
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=JonnyBanana&column=7&theme=onedark"/>
     </p>
