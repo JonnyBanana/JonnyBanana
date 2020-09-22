@@ -37,7 +37,7 @@ https://github.com/JonnyBanana/github-readme-stats
 
 </BR></BR>
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=JonnyBanana&column=7"/>
+
 
 
 
