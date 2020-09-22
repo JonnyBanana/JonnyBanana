@@ -123,6 +123,16 @@ Here are some ideas to get you started:
  
 </BR></BR>  
 
+
+<p align="center">
+	<a href="https://github.com/JonnyBanana"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/sponsors/JonnyBanana"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
+	<a href="https://twitter.com/jonnybanana84"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>	
+</p>
+
+
+</BR></BR>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
 </div>  
