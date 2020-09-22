@@ -40,14 +40,9 @@ Here are some ideas to get you started:
  </BR>
  
  
-
- 
-
- 
- 
 <!-- Biohacking Gif -->
 
-</BR>
+
 
 <div align="center" width="50">
 
