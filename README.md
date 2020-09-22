@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<body style="background-image:url("https://static.wixstatic.com/media/898053_dfadaa0e070e4cdcb5ba46d48bd38408~mv2.gif)">
+
 
 
  
@@ -156,6 +156,6 @@ Here are some ideas to get you started:
 <br />
 
 
-</body>
+
 
 
