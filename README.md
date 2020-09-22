@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 https://github.com/JonnyBanana/github-readme-stats
 -->
 
-<h1 align="center"> Banana's Home </h1>
+<h1 align="center"> Welcome to Banana's Home </h1>
 
 </BR>
 
