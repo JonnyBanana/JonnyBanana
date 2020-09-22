@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://static.wixstatic.com/media/898053_dfadaa0e070e4cdcb5ba46d48bd38408~mv2.gif)
+
  
 </BR>
 
