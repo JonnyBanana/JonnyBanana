@@ -24,6 +24,10 @@ Here are some ideas to get you started:
  <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/>
  
  <h1 align="center"> Welcome to Banana's Home </h1>
+ 
+ <div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🎩 Jonny Banana 🎩 | 💻 Full Stack Developer 💻 | 🇮🇹 Italy 🇮🇹 </h3>
+</div>
 
 <!-- Github -Twitter and Sponsor Logo -->
 <p align="center">
