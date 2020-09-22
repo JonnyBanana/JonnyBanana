@@ -30,4 +30,4 @@ https://github.com/JonnyBanana/github-readme-stats
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyBanana&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=fytex&column=7"/>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=JonnyBanana&column=7"/>
