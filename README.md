@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 https://github.com/JonnyBanana/github-readme-stats
 -->
 
-:bananadance:<h1 align="center"> Welcome to Banana's Home </h1>
+ <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> 
+ <h1 align="center"> Welcome to Banana's Home </h1>
 
 </BR>
 
