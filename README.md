@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 https://github.com/JonnyBanana/github-readme-stats
 -->
 
+<h1> Banana's Home </h1>
 
 </BR>
 
