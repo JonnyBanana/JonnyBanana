@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 -->
  
 
-<!--
-https://github.com/JonnyBanana/github-readme-stats
--->
 
- <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> 
+<!-- Title with Emoji's -->
+
+ <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;
  <h1 align="center"> Welcome to Banana's Home </h1>
+ 
+ 
+ 
+<!-- Biohacking Gif -->
 
 </BR>
 
@@ -29,6 +32,7 @@ https://github.com/JonnyBanana/github-readme-stats
 
 </div>
 
+<!-- Banana's Stats -->
 
 </BR>
 
@@ -37,6 +41,8 @@ https://github.com/JonnyBanana/github-readme-stats
 
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyBanana&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
+
+<!-- Space Div -->
 
 <div>
  
