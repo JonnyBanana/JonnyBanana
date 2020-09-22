@@ -12,16 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-    ____                                        __  __                   
-   / __ )____ _____  ____ _____  ____ ______   / / / /___  ____ ___  ___ 
-  / __  / __ `/ __ \/ __ `/ __ \/ __ `/ ___/  / /_/ / __ \/ __ `__ \/ _ \
- / /_/ / /_/ / / / / /_/ / / / / /_/ (__  )  / __  / /_/ / / / / / /  __/
-/_____/\__,_/_/ /_/\__,_/_/ /_/\__,_/____/  /_/ /_/\____/_/ /_/ /_/\___/ 
-                                                                         
-
-
-
+ 
 
 <!--
 https://github.com/JonnyBanana/github-readme-stats
@@ -47,3 +38,6 @@ https://github.com/JonnyBanana/github-readme-stats
 </BR></BR>
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=JonnyBanana&column=7"/>
+
+
+
