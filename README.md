@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="background-image:url("https://static.wixstatic.com/media/898053_dfadaa0e070e4cdcb5ba46d48bd38408~mv2.gif)">
+<body style="background-image:url("https://static.wixstatic.com/media/898053_dfadaa0e070e4cdcb5ba46d48bd38408~mv2.gif)">
 
 
  
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyBanana&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
-</div>
+
 
 
 <!-- Space Div -->
@@ -156,6 +156,6 @@ Here are some ideas to get you started:
 <br />
 
 
-
+</body>
 
 
