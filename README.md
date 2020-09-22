@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 
 
 <!-- thropy -->
+<h2 align="center">Github Trophies</h2>  
 <a href="https://JonnyBanana.github.io">
  
 <p align="center">
