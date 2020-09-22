@@ -54,6 +54,15 @@ Here are some ideas to get you started:
 </div>
 
 </BR>
+
+<!-- Space Div -->
+
+<div>
+ 
+</BR></BR></BR></BR></BR></BR>
+
+</div>
+
  
  <!-- Github -Twitter and Youtube Logo -->
 <div align="center">
@@ -67,15 +76,6 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div> 
-
-<!-- Space Div -->
-
-<div>
- 
-</BR></BR></BR></BR></BR></BR>
-
-</div>
-
 
 
 <!-- Party Emoji's -->
