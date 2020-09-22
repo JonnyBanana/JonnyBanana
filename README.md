@@ -80,7 +80,9 @@ Here are some ideas to get you started:
 
 
  <!-- Github -Twitter and Youtube Logo -->
+ <h2 align="center">Some Work Here ...</h2>  
 <div align="center">
+<h2 align="center">Github Trophies</h2>  
 <a href="https://github.com/JonnyBanana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
