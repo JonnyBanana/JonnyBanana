@@ -26,8 +26,10 @@ Here are some ideas to get you started:
  <h1 align="center"> Welcome to Banana's Home </h1>
  
  <div align="center">
-<h3> 🎩 Jonny Banana | 💻 Full Stack Developer 💻 | 🇮🇹 Italy </h3>
+<h3> 🎩 Jonny Banana | 💻 Full Stack Developer | 🇮🇹 Italy </h3>
 </div>
+
+</BR>
 
 <!-- Github -Twitter and Sponsor Logo -->
 <p align="center">
