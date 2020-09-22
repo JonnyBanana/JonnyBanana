@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <h1 align="center"> Welcome to Banana's Home </h1>
  
  <div align="center">
-<p> 🎩 Jonny Banana | 💻 Full Stack Developer | 🇮🇹 Italy </p>
+<b> 🎩 Jonny Banana | 💻 Full Stack Developer | 🇮🇹 Italy </b>
 </div>
 
 </BR>
