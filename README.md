@@ -42,7 +42,9 @@ https://github.com/JonnyBanana/github-readme-stats
 
 
 <!-- thropy -->
-<a href="https://arshiamidos.github.io">
+<a href="https://JonnyBanana.github.io">
+ 
+</BR></BR>
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=JonnyBanana&column=7&theme=onedark"/>
     </p>
