@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>  
  
-  
+</BR></BR>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
