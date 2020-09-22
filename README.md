@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div> 
 
 
-</BR></BR>  
+</BR>
 
 <!-- Github -Twitter and Sponsor Logo -->
 <p align="center">
