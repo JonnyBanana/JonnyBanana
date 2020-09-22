@@ -20,21 +20,7 @@ Here are some ideas to get you started:
  <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/>
  
  <h1 align="center"> Welcome to Banana's Home </h1>
- 
- </BR>
- 
- <!-- Github -Twitter and Youtube Logo -->
-<div align="center">
-<a href="https://github.com/JonnyBanana" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jonnybanana84" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div> 
+
 
 
 </BR>
@@ -70,6 +56,21 @@ Here are some ideas to get you started:
 
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyBanana&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
+
+</BR>
+ 
+ <!-- Github -Twitter and Youtube Logo -->
+<div align="center">
+<a href="https://github.com/JonnyBanana" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/jonnybanana84" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 <!-- Space Div -->
 
