@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>  
  
-</BR></BR>  
+</BR>
 
 
 <!-- Party Emoji's -->
