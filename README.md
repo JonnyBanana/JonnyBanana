@@ -100,7 +100,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/programming.gif">
 
 <h3> Links:</h3>
-</p>
+
 
  - <h4>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
    
