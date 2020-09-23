@@ -104,17 +104,17 @@
 
  - <h4>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
    
- -  <p>🧬 SappohSama Workshop Rciclyng Shop on<a href="">E-bay</a></p>
+ -  <h4>🧬 SappohSama Workshop Rciclyng Shop on<a href="">E-bay</a></h4>
 
- -  <p>🧿 Photoalbums on <a href="">Imgur</a></p> 
+ -  <h4>🧿 Photoalbums on <a href="">Imgur</a></h4> 
  
- -  <p>😼<a href=""></a></p>
+ -  <h4>😼<a href=""></a></h4>
  
- -  <p>🛸<a href=""></a></p>
+ -  <h4>🛸<a href=""></a></h4>
  
- -  <p>😼<a href=""></a></p>
+ -  <h4>😼<a href=""></a></h4>
   
- -  <p>🛸<a href=""></a></p>
+ -  <h4>🛸<a href=""></a></h4>
  
 <p>
   <h4 align="center"> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
