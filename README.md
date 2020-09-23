@@ -102,7 +102,7 @@
 <h3> Links:</h3>
 
 
- - <h4>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
+ -  <h4>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
    
  -  <h4>🧬 SappohSama Workshop Recycling Shop on <a href="https://www.ebay.it/str/sapposamaworkshop">E-bay</a></h4>
 
@@ -110,7 +110,7 @@
  
  -  <h4>😼 h0Wt0hAcK Channel on <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw">Youtube</a></h4>
  
- -  <h4>🛸 $aPp0h$aMa_WoRk$h0p on <a href="https://www.youtube.com/channel/UC7Z1vmu3LfcBQZ7iGAyT5nw">Youtube</a></h4>
+ -  <h4>🍄 $aPp0h$aMa_WoRk$h0p on <a href="https://www.youtube.com/channel/UC7Z1vmu3LfcBQZ7iGAyT5nw">Youtube</a></h4>
  
  -  <h4>😼 Some of my Service on <a href="https://shoppy.gg/@HashashinHakShop">Shoppy</a></h4>
   
