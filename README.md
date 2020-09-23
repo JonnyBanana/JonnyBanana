@@ -113,7 +113,7 @@
 --> 
  -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/259/crossed-swords_2694.png" width="20px"> Some of my Service on <a href="https://shoppy.gg/@HashashinHakShop">Shoppy</a></h4>
 
- 
+</BR> 
 <p>
   <h4 align="center"> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
 </p>
