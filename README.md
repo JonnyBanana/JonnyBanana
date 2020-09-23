@@ -48,7 +48,7 @@
 
 
 <!-- thropy -->
-<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px">Github Trophies<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>  
+<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"> Github Trophies <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>  
 <a href="https://JonnyBanana.github.io">
  
  <p align="center">
