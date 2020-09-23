@@ -159,16 +159,16 @@ Here are some ideas to get you started:
 
  - <p>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a>
    
- - 🔭 SpaceX FanBoi, Vanilla in Space😼
+ - 😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ - 🛸 
  
- - I do ReactJS and JavaScript with *Redux - Context - Hooks* and a lot of love :heart:
+ - 
  
- - MERN stack Developer
+ - 
  
  <p align="center">
-  <h4> System Design | Web Development | Micro Services | Competetive Programming | Machine Learning </h4>
+  <h4> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
    </p>
 
 
