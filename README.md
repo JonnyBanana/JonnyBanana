@@ -104,7 +104,7 @@
 
  - <h4>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
    
- -  <h4>🧬 SappohSama Workshop Reciclyng Shop on<a href="">E-bay</a></h4>
+ -  <h4>🧬 SappohSama Workshop Reciclyng Shop on <a href="">E-bay</a></h4>
 
  -  <h4>🧿 Photoalbums on <a href="">Imgur</a></h4> 
  
