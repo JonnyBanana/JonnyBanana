@@ -88,13 +88,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>  
  
-</BR></BR>
+</BR>
 
 
 <!-- Banana Emoji's -->
 <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/>
 
-</BR>
+</BR></BR>
 
 <!-- Links -->
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/programming.gif">
