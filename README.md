@@ -163,15 +163,15 @@ Here are some ideas to get you started:
 
  - 🛸 
  
- - 
+ - 😼
  
- - 
+ - 🛸
  
- - 
+ - 😼
   
- - 
+ - 🛸
  
- <p align="center">
+ <p>
   <h4 align="center"> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
  </p>
 
