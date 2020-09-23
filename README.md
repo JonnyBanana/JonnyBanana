@@ -148,19 +148,19 @@ Here are some ideas to get you started:
 <h3> Links:</h3>
 </p>
 
- - <p>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a>
+ - <p>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></p>
    
- - 😼
+ -  <p>🧬<a href="">SappohSamaWorkshop</a></p>
 
- - 🛸 
+ -  <p>🧿<a href="">Imgur</a></p> 
  
- - 😼
+ -  <p>😼<a href=""></a></p>
  
- - 🛸
+ -  <p>🛸<a href=""></a></p>
  
- - 😼
+ -  <p>😼<a href=""></a></p>
   
- - 🛸
+ -  <p>🛸<a href=""></a></p>
  
  <p>
   <h4 align="center"> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
