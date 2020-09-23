@@ -6,7 +6,7 @@
 <h1 align="center">👹 Welcome to  Banana's Home 👹</h1>
  
 <div align="center">
- <b> 🎩 Jonny Banana | 💻 Full Stack Developer | 🧬 Biohacking Enthusiast | 🇮🇹 Bologna, Italy </b>
+ <h3> 🎩 Jonny Banana | 💻 Full Stack Developer | 🧬 Biohacking Enthusiast | 🇮🇹 Bologna, Italy </h3>
 </div>
 
 </BR>
