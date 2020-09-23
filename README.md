@@ -157,7 +157,7 @@ Here are some ideas to get you started:
 <h3> Links:</h3>
 </p>
 
- - 🐳 &nbsp;<p>My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a>
+ - <p>🐳 &nbsp; My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a>
    
  - 🔭 SpaceX FanBoi, Vanilla in Space😼
 
