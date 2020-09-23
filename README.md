@@ -150,9 +150,9 @@ Here are some ideas to get you started:
 
  - <p>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></p>
    
- -  <p>🧬<a href="">SappohSamaWorkshop</a></p>
+ -  <p>🧬 <a href="">SappohSamaWorkshop</a></p>
 
- -  <p>🧿<a href="">Imgur</a></p> 
+ -  <p>🧿 <a href="">Imgur</a></p> 
  
  -  <p>😼<a href=""></a></p>
  
