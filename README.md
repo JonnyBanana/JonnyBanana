@@ -48,7 +48,7 @@
 
 
 <!-- thropy -->
-<h2 align="center">Github Trophies</h2>  
+<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px">Github Trophies<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>  
 <a href="https://JonnyBanana.github.io">
  
  <p align="center">
@@ -57,7 +57,7 @@
 </a>
 
 <!-- Banana Skillz -->
-<h2 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" width="25px">Some Banana Skillz</h2>  
+<h2 align="center">Some Banana Skillz</h2>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
