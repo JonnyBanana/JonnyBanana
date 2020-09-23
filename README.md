@@ -2,12 +2,11 @@
 **JonnyBanana/JonnyBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- Title  -->
+<h1 align="center">👹 Welcome to  Banana's Home 👹</h1>
  
- <!-- Title  -->
- <h1 align="center">👹 Welcome to  Banana's Home 👹</h1>
- 
- <div align="center">
-<b> 🎩 Jonny Banana | 💻 Full Stack Developer | 🇮🇹 Bologna, Italy </b>
+<div align="center">
+ <b> 🎩 Jonny Banana | 💻 Full Stack Developer | 🇮🇹 Bologna, Italy </b>
 </div>
 
 </BR>
@@ -16,22 +15,15 @@
 <p align="center">
 	<a href="https://github.com/JonnyBanana"><img src="https://img.shields.io/github/followers/JonnyBanana.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://github.com/sponsors/JonnyBanana"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
-	<a href="https://twitter.com/jonnybanana84"><img src="https://img.shields.io/twitter/follow/jonnybanana84?label=Twitter&style=social" alt="Twitter"></a>	
+	<a href="https://twitter.com/jonnybanana84"><img src="https://img.shields.io/twitter/follow/jonnybanana84?label=Twitter&style=social" alt="Twitter"></a>
 </p>
  
 <!-- Biohacking Gif -->
-
-
-
 <div align="center" width="50">
-
 <img src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="600"/>
-
 </div>
 
-
 <!-- Banana's Stats -->
-
 </BR>
 
 <div>
@@ -40,9 +32,7 @@
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyBanana&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
-
 <!-- Space Div -->
-
 <div>
  
 </BR></BR></BR></BR></BR></BR>
@@ -52,23 +42,17 @@
 </BR></BR>
 
 <!-- Banana Emoji's -->
-
- <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/>
-
-
-
+<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/>
 
 
 <!-- thropy -->
 <h2 align="center">Github Trophies</h2>  
 <a href="https://JonnyBanana.github.io">
  
-<p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=JonnyBanana&column=7&theme=onedark"/>
-</p>
+ <p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=JonnyBanana&column=7&theme=onedark"/>
+ </p>
 </a>
-
-
 
 <!-- Banana Skillz -->
 <h2 align="center">Some Banana Skillz</h2>  
@@ -106,10 +90,7 @@
  
 </BR></BR>
 
-
 <!-- Party Emoji's -->
-
-
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/programming.gif">
 
 <h3> Links:</h3>
@@ -129,15 +110,13 @@
   
  -  <p>🛸<a href=""></a></p>
  
- <p>
+<p>
   <h4 align="center"> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
- </p>
+</p>
 
-</BR></BR></BR>
+</BR>
 
-
- <!-- Github -Twitter and Youtube Logo -->
- <h2 align="center">Stay Tuned!</h2>  
+<!-- Github -Twitter and Youtube Logo -->
 <div align="center">
 <a href="https://github.com/JonnyBanana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -150,8 +129,6 @@
 </a>  
 </div> 
 
-
-
 </BR>
 
 <div align="center">
@@ -160,17 +137,10 @@
 alt="Profit every 10 minutes!"></a>
 </div>
 
-
-
 </BR>
-
 
 <!-- Visitors Counter -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
 </div>  
 </BR>
-
-
-
-
