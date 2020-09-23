@@ -126,39 +126,31 @@
 
 
 
-<a align="center">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
-</a>
-
-
-<!-- Repos -->
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
 
 
 
+<!-- 
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/JonnyBanana/Wifi-Pineapple-IP-Configurator" title="Wifi-Pineapple-IP-Configurator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jonnyBanana&repo=Wifi-Pineapple-IP-Configurator&theme=gotham"></a>
   <a align="right" href="https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH" title="BQOD_tHE_bLUE_qUACK_oF_dEATH"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=BQOD_tHE_bLUE_qUACK_oF_dEATH&theme=gotham"></a>
 </p>
-
-
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/JonnyBanana/safari-ie-reaper.github.io" title="safari-ie-reaper.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=safari-ie-reaper.github.io&theme=gotham"></a>
   <a align="right" href="https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info" title="Rubber_Ducky_Gather_Network_Info"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Rubber_Ducky_Gather_Network_Info&theme=gotham"></a>
 </p>
-
-
-
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=gotham"></a>
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
 </p>
-
-
+-->
 
 
 </BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR>
