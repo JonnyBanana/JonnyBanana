@@ -17,7 +17,9 @@
 	<a href="https://github.com/sponsors/JonnyBanana"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 	<a href="https://twitter.com/jonnybanana84"><img src="https://img.shields.io/twitter/follow/jonnybanana84?label=Twitter&style=social" alt="Twitter"></a>
 </p>
- 
+
+</BR>
+
 <!-- Biohacking Gif -->
 <div align="center" width="50">
 <img src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="600"/>
