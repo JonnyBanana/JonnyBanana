@@ -6,7 +6,7 @@
 <h1 align="center">👹 Welcome to  Banana's Home 👹</h1>
  
 <div align="center">
- <h4> 🎩 Jonny Banana | 💻 Full Stack Developer | 🧬 Biohacking Enthusiast | 🇮🇹 Bologna, Italy </h4>
+ <h4> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/top-hat_1f3a9.png" width="22px"> Jonny Banana | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/laptop_1f4bb.png" width="22px"> Full Stack Developer | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/dna_1f9ec.png" width="22px"> Biohacking Enthusiast | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-italy_1f1ee-1f1f9.png" width="22px"> Bologna, Italy </h4>
 </div>
 
 </BR>
