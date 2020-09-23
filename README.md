@@ -130,6 +130,8 @@
 
 <!-- Repos -->
 
+<div background="black">
+
 <h2 align="center">Some Repo's</h2>
 
 <p width="100%" align="center">
@@ -159,7 +161,7 @@
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
 </p>
 
-
+</div>
 
 
 </BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR>
