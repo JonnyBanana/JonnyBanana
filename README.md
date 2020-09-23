@@ -133,19 +133,15 @@
 <h2 align="center">Some Repo's</h2>
 
 <p width="100%" align="center">
- <a align="left" href="https://github.com/JonnyBanana/DUCKY_REAPER" title="DUCKY_REAPER"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham"></a>
-	
-	
-<a align="left" href="https://github.com/JonnyBanana/DUCKY_REAPER" title="DUCKY_REAPER"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham"></a>
-	
+ <a align="left" href="https://github.com/JonnyBanana/DUCKY_REAPER" title="DUCKY_REAPER"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham"></a>	
 <a align="right" href="https://github.com/JonnyBanana/Netflix_EVIL_PORTAL" title="Netflix_EVIL_PORTAL"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham"></a>
 </p>
 
 
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
+  <a align="left" href="https://github.com/JonnyBanana/Wifi-Pineapple-IP-Configurator" title="Wifi-Pineapple-IP-Configurator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jonnyBanana&repo=Wifi-Pineapple-IP-Configurator&theme=gotham"></a>
+  <a align="right" href="https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH" title="BQOD_tHE_bLUE_qUACK_oF_dEATH"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=BQOD_tHE_bLUE_qUACK_oF_dEATH&theme=gotham"></a>
 </p>
 
 
