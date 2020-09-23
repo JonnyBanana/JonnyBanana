@@ -127,21 +127,14 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
 
 
 
 <!-- Repos -->
 
-<div color="black">
 
-<h2 align="center">Some Repo's</h2>
-
-<p width="100%" align="center">
- <a align="left" href="https://github.com/JonnyBanana/DUCKY_REAPER" title="DUCKY_REAPER"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham"></a>	
-<a align="right" href="https://github.com/JonnyBanana/Netflix_EVIL_PORTAL" title="Netflix_EVIL_PORTAL"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham"></a>
-</p>
 
 
 <br><br>
@@ -165,7 +158,7 @@
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
 </p>
 
-</div>
+
 
 
 </BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR>
