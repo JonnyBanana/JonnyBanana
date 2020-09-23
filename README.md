@@ -133,9 +133,9 @@
 <h2 align="center">Some Repo's</h2>
 
 <p width="100%" align="center">
- <a align="left" href="https://github.com/JonnyBanana/DUCKY_REAPER" title="DUCKY_REAPER"><img align="left" height="115" width="45%"src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham"></a>
+ <a align="left" href="https://github.com/JonnyBanana/DUCKY_REAPER" title="DUCKY_REAPER"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham"></a>
 	
-<a align="right" href="https://github.com/JonnyBanana/Netflix_EVIL_PORTAL" title="Netflix_EVIL_PORTAL"><img align="right" height="115" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham"></a>
+<a align="right" href="https://github.com/JonnyBanana/Netflix_EVIL_PORTAL" title="Netflix_EVIL_PORTAL"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham"></a>
 </p>
 
 
