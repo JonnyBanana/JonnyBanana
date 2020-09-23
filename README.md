@@ -123,10 +123,10 @@
 </BR>
 
 
-<p align="center">
+<h1 align="center">
   <a align="left" href="https://github.com/JonnyBanana/safari-ie-reaper.github.io" title="safari-ie-reaper.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=safari-ie-reaper.github.io&theme=gotham"></a>
   <a align="right" href="https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info" title="Rubber_Ducky_Gather_Network_Info"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Rubber_Ducky_Gather_Network_Info&theme=gotham"></a>
-</p>
+</h1>
 
 
 
