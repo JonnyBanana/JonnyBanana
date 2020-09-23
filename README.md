@@ -179,16 +179,14 @@ alt="Profit every 10 minutes!"></a>
 
 
 
-</BR></BR>
+</BR>
 
 
 <!-- Visitors Counter -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
 </div>  
-
-<br />
-
+</BR>
 
 
 
