@@ -130,7 +130,7 @@
 
 <!-- Repos -->
 
-<div background-color="black">
+<div color="black">
 
 <h2 align="center">Some Repo's</h2>
 
