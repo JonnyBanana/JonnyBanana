@@ -169,8 +169,7 @@ Here are some ideas to get you started:
 
 
 
-</BR>
-</BR>
+</BR></BR></BR>
 
 <div align="center">
 <a href="https://golden-farm.biz/?r=1673249" target="_blank" >
@@ -180,7 +179,7 @@ alt="Profit every 10 minutes!"></a>
 
 
 
-</BR></BR></BR>
+</BR></BR>
 
 
 <!-- Visitors Counter -->
