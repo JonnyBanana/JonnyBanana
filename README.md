@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/>
  
- <h1 align="center">⚔️⚔️⚔️ Welcome t👹  Banana's Home ⚔️⚔️⚔️</h1>
+ <h1 align="center">⚔️👹⚔️ Welcome to  Banana's Home ⚔️👹⚔️</h1>
  
  <div align="center">
 <b> 🎩 Jonny Banana | 💻 Full Stack Developer | 🇮🇹 Bologna, Italy </b>
@@ -172,8 +172,8 @@ Here are some ideas to get you started:
  - 
  
  <p align="center">
-  <h4> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
-   </p>
+  <h4 align="center"> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
+ </p>
 
 
 
