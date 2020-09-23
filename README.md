@@ -102,7 +102,7 @@
 <h3> Links:</h3>
 
 
- -  <h4>🐳 My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
+ -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/spouting-whale_1f433.png" width="22px"> My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
    
  -  <h4>🧬 SappohSama Workshop Recycling Shop on <a href="https://www.ebay.it/str/sapposamaworkshop">E-bay</a></h4>
 
