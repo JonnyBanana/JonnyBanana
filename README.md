@@ -171,10 +171,11 @@ Here are some ideas to get you started:
 
 </BR>
 
-<a href="https://golden-farm.biz/?r=1673249" target="_blank" align="center">
+<div align="center">
+<a href="https://golden-farm.biz/?r=1673249" target="_blank" >
 <img src="https://golden-farm.biz/images/promo/en/728x90.gif"
 alt="Profit every 10 minutes!"></a>
-
+</div>
 
 
 
