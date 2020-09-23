@@ -110,7 +110,7 @@
  
  -  <h4>😼 h0Wt0hAcK Channel on <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw">Youtube</a></h4>
  
- -  <h4>🍄 $aPp0h$aMa_WoRk$h0p on <a href="https://www.youtube.com/channel/UC7Z1vmu3LfcBQZ7iGAyT5nw">Youtube</a></h4>
+ -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/257/mushroom_1f344.png"> $aPp0h$aMa_WoRk$h0p on <a href="https://www.youtube.com/channel/UC7Z1vmu3LfcBQZ7iGAyT5nw">Youtube</a></h4>
  
  -  <h4>😼 Some of my Service on <a href="https://shoppy.gg/@HashashinHakShop">Shoppy</a></h4>
   
