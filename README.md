@@ -126,10 +126,10 @@
 
 
 
-
+<a align="center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
-
+</a>
 
 
 <!-- Repos -->
