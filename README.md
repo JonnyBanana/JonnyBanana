@@ -2,13 +2,6 @@
 **JonnyBanana/JonnyBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-
-
- 
-</BR>
-
- 
  
  <!-- Title  -->
  <h1 align="center">👹 Welcome to  Banana's Home 👹</h1>
@@ -48,8 +41,6 @@
 </div>
 
 
-
-
 <!-- Space Div -->
 
 <div>
@@ -58,14 +49,14 @@
 
 </div>
 
-
+</BR></BR>
 
 <!-- Banana Emoji's -->
 
  <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif?1450694616" width="50" height="50"/>
 
 
-</BR></BR>
+
 
 
 <!-- thropy -->
