@@ -148,7 +148,7 @@
 
 <!-- Payments Info -->
 
-<h2 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" width="30px"> Payments Info <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" width="30px"></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450319446/65/take_my_money.png?1450319446" width="30px"> Payments Info <img src="https://emojis.slackmojis.com/emojis/images/1450319446/65/take_my_money.png?1450319446" width="30px"></h2>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
 
