@@ -151,12 +151,25 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"> Payments Info <img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"></h2>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
-<img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="40px" align="center"> 
-<b>39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b> 
+
+
+
+
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</h4>
+ 
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"> blockchain-master.crypto</h4>
+ 
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Official_Litecoin_Logo.png" width="25px"> MB4kAxFU6SRXBRsAEhW2CTksJbq8sVTT7Q</h4>
+ 
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/darkcoin.png" width="25px"> 7cpS6zvX8pe5G9ANupbrcRQWZnRT47wVgP</h4>
+ 
+
+<img src="" width="40px" align="center"> 
+<b></b> 
 
 </BR>
 
-<img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="40px">
+<img src="" width="40px">
 <b>0x35a3e6F5D0FCE697c3e820BF6011C6187C332FD2</b>
 
 </BR>
