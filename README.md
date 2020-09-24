@@ -159,20 +159,10 @@
 <img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="40px">
 <b>0x35a3e6F5D0FCE697c3e820BF6011C6187C332FD2</b>
 
+</BR>
 
-<!--
-<div align="left" >	
-<b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> BTC Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-</div>
-<div align="right" >
-<b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> ETH Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-</div>
-<b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> DOGE Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-<b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> LTC Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-<b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> DARK Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-<b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> UNSTOPPABLE DOMAINS </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-<b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> PAYPAL </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
--->
+<img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1030125.png" width="40px">
+<b>0x35a3e6F5D0FCE697c3e820BF6011C6187C332FD2</b>
 
 
 
