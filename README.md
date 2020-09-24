@@ -148,7 +148,7 @@
 
 <!-- Payments Info -->
 
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"> Payments Info <img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"> Payments Info <img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="25px"></h2>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
 
