@@ -134,6 +134,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=NEOPIXEL_WS2812_5050_SKETCHS&theme=gotham)](https://github.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=MAC_Donalds&theme=gotham)](https://github.com/JonnyBanana/MAC_Donalds)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Codebug_BTC_RealTime_Price&theme=gotham)](https://github.com/JonnyBanana/Codebug_BTC_RealTime_Price)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=SASS-PixelArt-Pack&theme=gotham)](https://github.com/JonnyBanana/SASS-PixelArt-Pack)
 </div>
 
 </BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR>
