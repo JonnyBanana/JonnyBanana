@@ -138,7 +138,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=SASS-PixelArt-Pack&theme=gotham)](https://github.com/JonnyBanana/SASS-PixelArt-Pack)
 </div>
 
-</BR></BR></BR></BR>
+</BR></BR>
 
 <!-- Github -Twitter and Youtube Logo -->
 <div align="center">
