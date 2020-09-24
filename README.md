@@ -152,8 +152,8 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
 
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"><a href="bitcoin:39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb"> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</a>  
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"><a href=""> 0x35a3e6F5D0FCE697c3e820BF6011C6187C332FD2</a>  
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"><a> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</a>  
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"><a> 0x35a3e6F5D0FCE697c3e820BF6011C6187C332FD2</a>  
 
 
 <!--
