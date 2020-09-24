@@ -127,7 +127,7 @@
   <h4 align="center"> Programming | Web Development | Support Services | Prototyping | Computer Building </h4>
 </p>
 
-</BR>
+</BR></BR>
 
 <!-- Links -->
 <div align="center" >
