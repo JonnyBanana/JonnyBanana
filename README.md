@@ -140,20 +140,14 @@
 
 </BR></BR>
 
-
-
 <!-- Contacts -->
 <img align="left" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/88a969c3e830bbcbff939ea870058d91.gif">
 
-
 <h3> Contacts:</h3>
-
 <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="">Gmail</a>: howtohackitalia@gmail.com</h4> 
 <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Gmail PGP fingerprint: FA6594C6C31FAAE54D9BD87EAF05B231635B9F59</h4> 
 <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="">Proton Mail</a>: jonnybanana@protonmail.com</h4> 
 <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Proton Mail PGP fingerprint:  8c8f7dfc02d993b2418786e567040a7d27ccdff7</h4> 
-<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Mailvelopem PGP fingerprint:  FA6594C6C31FAAE54D9BD87EAF05B231635B9F59</h4>
-   
 
 </BR> 
 
