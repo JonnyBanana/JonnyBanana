@@ -123,7 +123,7 @@
 </BR>
 
 <div align="center" >
-<h3>Some Repo's</h3>
+<h3>Some Repositories</h3>
 </BR>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
