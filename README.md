@@ -103,9 +103,7 @@
  -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/265/nazar-amulet_1f9ff.png" width="20px"> Photoalbums on <a href="https://www.behance.net/SappohSama">Behance</a></h4>  
  
  -  <h4><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png" width="20px"> h0Wt0hAcK Channel on <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw">Youtube</a></h4>
- <!--  
- -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/257/mushroom_1f344.png" width="20px"> $aPp0h$aMa_WoRk$h0p on <a href="https://www.youtube.com/channel/UC7Z1vmu3LfcBQZ7iGAyT5nw">Youtube</a></h4>
---> 
+
  -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/259/crossed-swords_2694.png" width="20px"> Some of my Service on <a href="https://shoppy.gg/@HashashinHakShop">Shoppy</a></h4>
 
 </BR> 
@@ -152,9 +150,6 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
 
-
-
-
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> bit.co.in/jonnybanana</h4>
  
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"> blockchain-master.crypto</h4>
@@ -199,7 +194,3 @@ alt="Profit every 10 minutes!"></a>
 
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
 </div>  
-
-
-
-
