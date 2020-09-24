@@ -132,21 +132,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=BQOD_tHE_bLUE_qUACK_oF_dEATH&theme=gotham)](https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=safari-ie-reaper.github.io&theme=gotham)](https://github.com/JonnyBanana/safari-ie-reaper.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=SASS-PixelArt-Pack&theme=gotham)](https://github.com/JonnyBanana/SASS-PixelArt-Pack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=MAC_Donalds&theme=gotham)](https://github.com/JonnyBanana/MAC_Donalds)
 </div>
 
-<!-- 
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
-</p>
--->
-
-
 </BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR>
-
-
-
-
 
 <!-- Github -Twitter and Youtube Logo -->
 <div align="center">
