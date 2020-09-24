@@ -147,7 +147,7 @@
 
 <h3> Contacts:</h3>
 
- -  <h4>.<img src="" width="20px"> <a href="">Gmail</a></h4>
+ -  <h4 align="right"><img src="" width="20px"> <a href="">Gmail</a></h4> 
    
  -  <h4><img src="" width="20px"> <a href=""></a></h4>
  
