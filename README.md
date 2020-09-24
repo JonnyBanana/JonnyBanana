@@ -151,7 +151,7 @@
 <a href="https://twitter.com/jonnybanana84" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
-<a href="mailto:howtohackitalia@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>	
+<a href="mailto:howtohackitalia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white></a>	
 </div> 
 
 </BR>
