@@ -140,6 +140,25 @@
 
 </BR></BR>
 
+
+
+<!-- Contacts -->
+<img align="left" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/88a969c3e830bbcbff939ea870058d91.gif">
+
+<h3> Contacts:</h3>
+
+ -  <h4><img src="" width="20px"> <a href="">Gmail</a></h4>
+   
+ -  <h4><img src="" width="20px"> <a href=""></a></h4>
+ 
+ -  <h4><img src="" width="20px"> <a href=""></a></h4>
+ 
+ -  <h4><img src="" width="20px"> <a href=""></a></h4>
+ 
+ -  <h4><img src="" width="20px"> <a href=""></a></h4>
+
+</BR> 
+
 <!-- Github -Twitter and Youtube Logo -->
 <div align="center">
 <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
