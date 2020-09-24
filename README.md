@@ -125,7 +125,7 @@
 <div align="center" >
 
 </BR>
-<h3>Some Repo's</h3>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Rubber_Ducky_Gather_Network_Info&theme=gotham)](https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Wifi-Pineapple-IP-Configurator&theme=gotham)](https://github.com/JonnyBanana/Wifi-Pineapple-IP-Configurator)
