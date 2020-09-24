@@ -123,7 +123,7 @@
 </BR>
 
 <div align="center" >
-<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/pirate-flag_1f3f4-200d-2620-fe0f.png" width="23px"> Some Repositories <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/pirate-flag_1f3f4-200d-2620-fe0f.png" width="23px"></h2>  
+<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/pirate-flag_1f3f4-200d-2620-fe0f.png" width="25px"> Some Repositories <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/pirate-flag_1f3f4-200d-2620-fe0f.png" width="25px"></h2>  
 </BR>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
