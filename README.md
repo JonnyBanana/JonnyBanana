@@ -108,6 +108,8 @@
 <!-- Links -->
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/programming.gif">
 
+</BR>
+
 <h3> Links:</h3>
 
  -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/spouting-whale_1f433.png" width="20px"> My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
