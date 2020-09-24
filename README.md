@@ -151,7 +151,7 @@
 <div align="center" >
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"> Payments Info <img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"></h2>  
 </BR>
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="50px"> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</h4>
+ -  <h3><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="30px"> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</h3>
 
 
 
