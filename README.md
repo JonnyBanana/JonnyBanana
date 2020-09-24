@@ -194,6 +194,9 @@ alt="Profit every 10 minutes!"></a>
 <!-- Visitors Counter -->
 <div align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" align="center" />&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" align="center" />
+	
+</BR>
+
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
 </div>  
 
