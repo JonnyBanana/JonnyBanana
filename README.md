@@ -128,8 +128,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Rubber_Ducky_Gather_Network_Info&theme=gotham)](https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Wifi-Pineapple-IP-Configurator&theme=gotham)](https://github.com/JonnyBanana/Wifi-Pineapple-IP-Configurator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=BQOD_tHE_bLUE_qUACK_oF_dEATH&theme=gotham)](https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Wifi-Pineapple-IP-Configurator&theme=gotham)](https://github.com/JonnyBanana/Wifi-Pineapple-IP-Configurator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=safari-ie-reaper.github.io&theme=gotham)](https://github.com/JonnyBanana/safari-ie-reaper.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=NEOPIXEL_WS2812_5050_SKETCHS&theme=gotham)](https://github.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS)
@@ -138,7 +138,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=SASS-PixelArt-Pack&theme=gotham)](https://github.com/JonnyBanana/SASS-PixelArt-Pack)
 </div>
 
-</BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR></BR>
+</BR></BR></BR></BR>
 
 <!-- Github -Twitter and Youtube Logo -->
 <div align="center">
