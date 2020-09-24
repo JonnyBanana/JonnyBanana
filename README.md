@@ -153,7 +153,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
 <h3> Payments Info:</h3>
 
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="20px"> BTC Wallet </h4> <a href="bitcoin:39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb">39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</a>  
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="20px"><a href="bitcoin:39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb">39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</a>  
 
 
 
