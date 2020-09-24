@@ -154,7 +154,7 @@
 
  -  <p><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</p>  
  -  <p><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"></p> 0x35a3e6F5D0FCE697c3e820BF6011C6187C332FD2</>  
-
+<link rel="payment" href="bitcoin:39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb" title="39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb">
 
 <!--
 <div align="left" >	
@@ -174,7 +174,7 @@
 
 </BR> </BR>
 
-
+<!-- Final Contacts e Social -->
 <div align="center">
 <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -189,7 +189,7 @@
 </div> 
 
 </BR>
-
+<!-- Banner -->
 <div align="center">
 <a href="https://golden-farm.biz/?r=1673249" target="_blank" >
 <img src="https://golden-farm.biz/images/promo/en/728x90.gif"
