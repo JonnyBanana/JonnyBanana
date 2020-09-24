@@ -165,7 +165,7 @@
  
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/pp.png" width="25px"> paypal.me/JonnyBananarama</h4>
  
-</BR>
+</BR></BR></BR>
 
 <!-- Final Contacts e Social -->
 <div align="center">
