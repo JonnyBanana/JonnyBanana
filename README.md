@@ -148,7 +148,7 @@
 
 <h3> Contacts:</h3>
 
-<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a>Gmail</a>: howtohackitalia@gmail.com</h4> 
+<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="">Gmail</a>: howtohackitalia@gmail.com</h4> 
    
 
 </BR> 
