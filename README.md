@@ -138,7 +138,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=SASS-PixelArt-Pack&theme=gotham)](https://github.com/JonnyBanana/SASS-PixelArt-Pack)
 </div>
 
-</BR>
+</BR></BR>
 
 <!-- Contacts -->
 <img align="left" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/88a969c3e830bbcbff939ea870058d91.gif">
