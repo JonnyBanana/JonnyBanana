@@ -103,12 +103,10 @@
 
 
 
-</BR></BR>
+</BR>
 
 <!-- Links -->
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/programming.gif">
-
-</BR>
 
 <h3> Links:</h3>
 
