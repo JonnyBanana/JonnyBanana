@@ -142,11 +142,6 @@
 
 <!-- Github -Twitter and Youtube Logo -->
 <div align="center">
-	
-	
-<a href="mailto:howtohackitalia@gmail.com?subject=yo">
-<img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white/>
-</a>
 <a href="https://github.com/JonnyBanana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -156,6 +151,9 @@
 <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:howtohackitalia@gmail.com?subject=yo">
+<img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white/>
+</a>	
 </div> 
 
 </BR>
