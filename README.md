@@ -147,9 +147,9 @@
 
 <h3> Contacts:</h3>
 
-<h4>&bnsp;&bnsp;&bnsp;<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="">Gmail</a></h4> 
+<h4>&nbsp;&nbsp;&nbsp;<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href=""> Gmail</a></h4> 
    
-<h4>&nbsp;&nbsp;&nbsp;<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href=""></a></h4>
+<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href=""></a></h4>
  
 <h4>&nbsp;&nbsp;&nbsp;<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href=""></a></h4>
  
