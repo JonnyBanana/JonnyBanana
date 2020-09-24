@@ -101,9 +101,7 @@
  -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/spouting-whale_1f433.png" width="20px"> My NFT Tokens on <a href="https://opensea.io/accounts/Your_CryptoDealer">Opensea</a></h4>
    
  -  <h4><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="20px"> SappohSama Workshop Recycling Shop on <a href="https://www.ebay.it/str/sapposamaworkshop">E-bay</a></h4>
-
- -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/265/nazar-amulet_1f9ff.png" width="20px"> Photoalbums on <a href="https://www.behance.net/SappohSama">Behance</a></h4> 
- 
+ -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/265/nazar-amulet_1f9ff.png" width="20px"> Photoalbums on <a href="https://www.behance.net/SappohSama">Behance</a></h4>  
  -  <h4><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png" width="20px"> h0Wt0hAcK Channel on <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw">Youtube</a></h4>
  <!--  
  -  <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/257/mushroom_1f344.png" width="20px"> $aPp0h$aMa_WoRk$h0p on <a href="https://www.youtube.com/channel/UC7Z1vmu3LfcBQZ7iGAyT5nw">Youtube</a></h4>
@@ -151,35 +149,27 @@
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"> Payments Info <img src="https://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif?1450731407" width="30px"></h2>
 
-<div align="center">
 
+
+<!--
 <div align="left" >	
 <b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> BTC Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
 </div>
-
 <div align="right" >
 <b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> ETH Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
 </div>
-
-</div>
-
-
 <b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> DOGE Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-
 <b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> LTC Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-
 <b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> DARK Wallet </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-
 <b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> UNSTOPPABLE DOMAINS </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-
 <b><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="100px"></BR> PAYPAL </BR> 39JiebFzK3ooRFAw9HePoUwoqfFNXP8jmb</b>
-
+-->
 
 
 
 </BR> </BR>
 
-<!-- Github -Twitter and Youtube Logo -->
+
 <div align="center">
 <a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
