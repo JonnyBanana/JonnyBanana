@@ -90,7 +90,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>  
  
-</BR></BR></BR>
+</BR></BR>
 
 <!-- Links -->
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/programming.gif">
