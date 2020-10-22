@@ -179,13 +179,15 @@
 </BR>
 <!-- Banner -->
 <a href="https://www.purevpn.com/order-now.php?aff=44922&amp;a_bid=bbd0f893" target="_blank" ><img src="https://affiliates.purevpn.com/accounts/default1/6hb82wqa2l/bbd0f893.jpg" alt="Best VPN" title="Best VPN" width="728" height="90" /></a>
-</BR>
+</BR></BR>
 
 <!-- Visitors Counter -->
 <div align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" align="center" />&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" align="center" />
 	
-</BR>
+</BR></BR>
 
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
 </div>  
+
+</BR>
