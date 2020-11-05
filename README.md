@@ -118,7 +118,7 @@
 
 <!-- Repos -->
 <div align="center">
-<h2 align="center" style="color:yellow"><img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"> Some Repositories <img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"></h2>  
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"> Some Repositories <img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"></h2>  
 </BR>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
