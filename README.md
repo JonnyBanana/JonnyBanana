@@ -2,6 +2,11 @@
 **JonnyBanana/JonnyBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<link rel="stylesheet"
+      type="text/css"
+      href="https://gitcdn.link/repo/JonnyBanana/JonnyBanana/master/style.css"
+/>
+
 <!-- Title  -->
 <h1 align="center">👹 Welcome to  Banana's Home 👹</h1>
  
