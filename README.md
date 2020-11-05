@@ -117,7 +117,7 @@
 </BR>
 
 <!-- Repos -->
-<div align="center" style="background-color:yellow">
+<div align="center" style="color:yellow">
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"> Some Repositories <img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"></h2>  
 </BR>
 
