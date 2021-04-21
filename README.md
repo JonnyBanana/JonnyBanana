@@ -195,7 +195,7 @@
 <img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
 
 
-</BR></BR>
+<BR>
 
 <img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/izeeudd.jpg" align="center" />  
 
