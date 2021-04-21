@@ -197,6 +197,6 @@
 
 </BR>
 
-[![ReadMe Card](https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/izeeudd.jpg)
+<img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/izeeudd.jpg" align="center" />  
 
 </BR>
