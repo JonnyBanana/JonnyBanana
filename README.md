@@ -154,9 +154,9 @@
 
 
 
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> bit.co.in/jonnybanana</h4>
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> </BR> bit.co.in/jonnybanana</h4>
  
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"> blockchain-master.crypto</h4>
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"> </br> blockchain-master.crypto</h4>
  
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Official_Litecoin_Logo.png" width="25px"> MB4kAxFU6SRXBRsAEhW2CTksJbq8sVTT7Q</h4>
  
