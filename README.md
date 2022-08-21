@@ -140,9 +140,9 @@
 
 <h3> &nbsp &nbspContacts:</h3>
 <h4>&nbsp &nbsp<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:howtohackitalia@gmail.com">Gmail</a>: howtohackitalia@gmail.com</h4> 
-<h4>&nbsp &nbsp<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Gmail PGP fingerprint: FA6594C6C31FAAE54D9BD87EAF05B231635B9F59</h4> 
+<h4>&nbsp &nbsp<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Gmail PGP fingerprint: &nbsp &nbsp FA6594C6C31FAAE54D9BD87EAF05B231635B9F59</h4> 
 <h4>&nbsp &nbsp<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:jonnybanana@protonmail.com">Proton Mail</a>: jonnybanana@protonmail.com</h4> 
-<h4>&nbsp<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Proton Mail PGP fingerprint:  &nbsp&nbsp8c8f7dfc02d993b2418786e567040a7d27ccdff7</h4> 
+<h4>&nbsp &nbsp<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Proton Mail PGP fingerprint:  &nbsp& nbsp 8c8f7dfc02d993b2418786e567040a7d27ccdff7</h4> 
 
 </BR>
 
