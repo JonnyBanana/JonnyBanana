@@ -182,6 +182,13 @@
 
 </BR>
 <!-- Banner -->
+
+<div align="center">
+<a href="https://www.tindie.com/stores/circuit_circus/?ref=offsite_badges&utm_source=sellers_Circuit_Circus&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+</BR></BR>
+</div>
+
+
 <div align="center">
 <a href="https://www.purevpn.com/order-now.php?aff=44922&amp;a_bid=bbd0f893" target="_blank" ><img src="https://affiliates.purevpn.com/accounts/default1/6hb82wqa2l/bbd0f893.jpg" alt="Best VPN" title="Best VPN" width="728" height="90" /></a>
 </BR></BR>
