@@ -168,7 +168,7 @@
  
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/darkcoin.png" width="25px"> 7cpS6zvX8pe5G9ANupbrcRQWZnRT47wVgP</h4>
  
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/pp.png" width="25px"> paypal.me/JonnyBananarama</h4>
+
  
 </BR></BR></BR>
 
