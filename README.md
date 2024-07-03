@@ -64,8 +64,8 @@
 <!-- Hamster Kombat -->
 
 
- <p align="center">
-   <a href=""><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/wwxxwwxwx.jpg" width="444"  /></a>
+ <p align="center" > Play Hamster Kombat on Telegram! Airdop Soon!
+   <a href="https://t.me/hamster_kombAt_bot/start?startapp=kentId7272360455"><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/wwxxwwxwx.jpg" width="444"  /></a>
  </p>
 
 
