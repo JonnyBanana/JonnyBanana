@@ -63,7 +63,7 @@
 
 <!-- Hamster Kombat -->
 
- <h2 align="center">Play Hamster Kombat on Telegram! Airdop Soon!</h2>
+ <h2 align="center">Play Hamster Kombat on Telegram </BR> 150 Milion Users! </BR> Airdop Soon!</h2>
  <p align="center" > 
    <a href="https://t.me/hamster_kombAt_bot/start?startapp=kentId7272360455"><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/wwxxwwxwx.jpg" width="444"  /></a>
  </p>
