@@ -60,6 +60,17 @@
 
 <BR>
 
+
+<!-- Hamster Kombat -->
+
+
+ <p align="center">
+   <img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/wwxxwwxwx.jpg"/>
+ </p>
+
+
+<BR>
+
 <!-- Banana Skillz -->
 <h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"> Banana Skillz <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"> </h2> 
 <div align="center">  
