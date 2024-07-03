@@ -65,7 +65,7 @@
 
 
  <p align="center">
-   <a href="" width="50" height="50"><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/wwxxwwxwx.jpg"/></a>
+   <a href=""><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/wwxxwwxwx.jpg" width="50" height="50" /></a>
  </p>
 
 
